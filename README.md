@@ -27,8 +27,8 @@ npm start
 
 ## Utilisation
 
-###### Pour la création d'un nouvel utilisateur.
+###### **Pour la création d'un nouvel utilisateur.**
 ![Register Image](https://github.com/mb151/authentification-nodejs/blob/main/blob/register.JPG)
 
-###### Pour la connexion d'un utilisateur existant.
+###### **Pour la connexion d'un utilisateur existant.**
 ![Login Image](https://github.com/mb151/authentification-nodejs/blob/main/blob/login.JPG)
